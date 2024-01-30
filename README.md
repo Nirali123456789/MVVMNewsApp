@@ -12,6 +12,6 @@ A news app built using the MVVM (Model-View-ViewModel) architecture pattern, Ret
 ## Screenshots
 
 
-<img width="395" alt="Screenshot 2024-01-30 at 12 45 08 PM" src="https://github.com/Nirali123456789/MVVMNewsApp/assets/90322848/f688cdd1-1a13-4936-81d5-61c5239781f7">
-<img width="395" alt="Screenshot 2024-01-30 at 12 44 48 PM" src="https://github.com/Nirali123456789/MVVMNewsApp/assets/90322848/8374d387-43ea-45f2-bac3-2910d4e258c3">
-<img width="395" alt="Screenshot 2024-01-30 at 12 44 26 PM" src="https://github.com/Nirali123456789/MVVMNewsApp/assets/90322848/af029f5c-1f2c-418a-9e36-1d4b89c9c815">
+<img width="300" alt="Screenshot 2024-01-30 at 12 45 08 PM" src="https://github.com/Nirali123456789/MVVMNewsApp/assets/90322848/f688cdd1-1a13-4936-81d5-61c5239781f7">
+<img width="300" alt="Screenshot 2024-01-30 at 12 44 48 PM" src="https://github.com/Nirali123456789/MVVMNewsApp/assets/90322848/8374d387-43ea-45f2-bac3-2910d4e258c3">
+<img width="300" alt="Screenshot 2024-01-30 at 12 44 26 PM" src="https://github.com/Nirali123456789/MVVMNewsApp/assets/90322848/af029f5c-1f2c-418a-9e36-1d4b89c9c815">
